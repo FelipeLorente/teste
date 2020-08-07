@@ -1,5 +1,4 @@
-﻿aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-<%
+﻿<%
 'set xmlhttp = Server.CreateObject("MSXML2.XMLHTTP.3.0")
 ' 
 'xmlhttp.Open "POST", "https://www.receitaws.com.br/v1/cnpj/62281795000100", False
@@ -10,7 +9,7 @@
 'Set xmlhttp = nothing
 
 
-
+'TESTE DE COMMIT DO GIT HUB POOOOOOOOOOOOOOO
 
 Response.Buffer = True
 
